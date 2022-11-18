@@ -21,6 +21,7 @@ certifi = "*"
 jinja2 = "*"
 fastapi = "*"
 python-multipart = "*"
+pipfile = "*"
 
 [dev-packages]
 
